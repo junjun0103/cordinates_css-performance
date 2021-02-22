@@ -12,5 +12,5 @@
 ### Better performance
 > No layout shift
 ![good1](https://user-images.githubusercontent.com/50979090/108691554-82668880-7560-11eb-8ea5-0cda8c759560.PNG)
-> About 16ms framge speed
+> About 16ms frame speed
 ![good2](https://user-images.githubusercontent.com/50979090/108691566-84304c00-7560-11eb-9a60-b41124343cee.PNG)
